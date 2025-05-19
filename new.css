@@ -1,0 +1,68 @@
+body{
+    color:blue;
+    background-color:lightblue;
+    font-size: medium;
+    background-image: url(IMAGES/clouds.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: x-large;
+
+
+}
+h2{
+    text-align: center;
+    color:crimson;
+    font-size: large;
+}
+h3{
+    text-align: center;
+    color:green;
+    font-size: medium;
+}
+h4{
+    text-align: center;
+    color: darkorange;
+    font-size: small;
+}
+h5{
+    text-align:center;
+    color:purple;
+    font-size:smaller;
+}
+h6{
+    text-align:center;
+    color:orangered;
+    font-size:x-smaller;
+}
+table{
+    margin-top:10px ;
+    padding:20px;
+    border: 2px solid black;
+}
+table td{
+    color:crimson;
+    padding:10px;
+    border:1px solid orangered;
+
+}
+table th{
+    color:black;
+    padding:10px;
+    border:1px solid black;
+}
+
+}
+table{
+           ul {
+            font-size: 18px; /* Sets font size for unordered lists */
+        }
+        
+        ol {
+            font-size: 20px; /* Sets font size for ordered lists */
+        }
+
+    }

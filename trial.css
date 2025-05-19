@@ -1,0 +1,55 @@
+*{
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+table{
+    border:solid ;
+    border-color:white;
+    border-width: small;
+    border-collapse:collapse;
+}
+Table th{
+    border:solid;
+
+}
+table tb{
+    border:solid;
+    background-color:tomato;
+
+}
+body{
+    padding:20PX;
+    background-color:black;
+    background-repeat:no-repeat;
+    
+}
+form{
+    background-color:lightblue;
+    border:solid;
+    border-color:black;
+    border-width: small;
+    border-collapse:collapse;
+    display: inline-block;
+    flex-direction: column;
+}
+.submit{
+    background-color:blue;
+    color:black;
+}
+div{
+    background-color:lightblue;
+    border:solid;
+    border-width: small;
+    border-collapse:collapse;
+    margin: 30px;
+    border-color:none;
+}
+.btn{
+    background-color:blue;
+    color:black;
+}
+.{
+    display: block;
+}
