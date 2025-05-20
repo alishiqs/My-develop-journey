@@ -1,1 +1,17 @@
-
+form{
+    background-color:lightblue;
+    border:solid;
+    border-color:black;
+    border-width: small;
+    border-collapse:collapse;
+    display: inline-block;
+    flex-direction: column;
+}
+header{
+    background-color:lightblue;
+    border:solid;
+    border-width: small;
+    border-collapse:collapse;
+    margin: 30px;
+    border-color:none;
+}
